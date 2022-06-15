@@ -1,6 +1,9 @@
 # scene3d
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.harium.gdx/scene3d/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.harium.gdx/scene3d/)
+
 A libGDX library to display scene2d in a 3d environment.
+
+Current libGDX version: **1.10.0**
 
 You can check how it looks, in the [DesktopExample](https://github.com/Harium/scene3d/blob/main/src/test/java/DesktopExample.java).
 
