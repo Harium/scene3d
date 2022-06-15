@@ -13,7 +13,7 @@ You can check how it looks, in the [DesktopExample](https://github.com/Harium/sc
 allprojects {
 	ext {
         ...
-        scene3dVersion = '0.0.2'
+        scene3dVersion = '0.0.3'
     }
 }
 ```
