@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.harium.gdx</groupId>
     <artifactId>scene3d</artifactId>
-    <version>0.0.1</version>
+    <version>0.0.2</version>
     <packaging>jar</packaging>
     <name>Scene3d</name>
     <description>Gdx library to display scene2d in a 3d environment</description>
